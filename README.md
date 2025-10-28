@@ -14,3 +14,6 @@ selenium+pytest测试框架
 - `conftest.py`：pytest 的全局配置文件
 - `attachments/`：图片
 - `__pycache__/`：Python 自动生成的编译缓存
+
+- `.pytest_cache`：pytest 测试框架自动生成的缓存文件夹
+
