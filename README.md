@@ -4,7 +4,7 @@
 
 项目基于 **Python** + **Selenium** + **Pytest** 框架，展示了如何构建一个基础、稳定且易于维护的自动化测试脚本。
 
-<img src="D:\GitHubNote\swag_labs_automation\attachments\image-20251103141450352.png" alt="image-20251103141450352" style="zoom: 33%;" />
+![image-20251103141450352](attachments/image-20251103141450352.png)
 
 ## 🧪 覆盖的测试场景
 
